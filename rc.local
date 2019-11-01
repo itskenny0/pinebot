@@ -1,0 +1,2 @@
+/opt/script/set-discoverable.xp
+rfcomm watch hci0 1 getty rfcomm0 115200 vt100 -a root
